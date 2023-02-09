@@ -9,7 +9,8 @@
 
 **Скриншот рабочего окна приложения**: 
 
-![](https://raw.githubusercontent.com/cfpb/open-source-project-template/main/screenshot.png)
+![]<img width="957" alt="Безымянный" src="https://user-images.githubusercontent.com/113633260/217786276-973a1308-0e33-40ac-ab8c-1f0875c9a110.png">
+()
 ## Зависимости
 - 
 
